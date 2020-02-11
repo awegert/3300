@@ -1,0 +1,8 @@
+The palindrome detection tests several things; case sensitivity, basic functionality,
+and ignoring nonword characters. 
+
+The word count tests for many things; returning of a hash, whether it works on simple
+strings, ignores punctuation, works on an empty string, and ignores whitespace.
+
+The anagram grouping tests for three things; working on empty strings, checks
+that an array is returned for actual input, and provides one input to calculate. 

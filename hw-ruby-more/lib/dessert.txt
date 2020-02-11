@@ -1,0 +1,15 @@
+The purpose of the "cake" test is to check the functionality of the calorie limit
+for unhealthy foods.
+
+A test was added for the dessert "helium" with a set amount of calories at 0. 
+The purpose of this test is to make sure zero calorie desserts are accepted by
+the program. 
+
+The purpose of the "apple" test is to check the functionality of the calorie limit
+for healthy foods.
+
+The purpose of "can set" test is to check for setters for each class member variable
+
+The purpose of the jellybean test is to make sure each variable is set correctly, 
+and retrieved correctly, and licorice flavored jellybeans are remonstrated as 
+not delicious.

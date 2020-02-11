@@ -1,0 +1,9 @@
+The rock paper scissors test was modified to allow custom error messages when
+an individual inputs invalid choices. This removes the confusion I originally faced
+when throwing an error with RPS in the wrong order on the .new error string. 
+
+The rock paper scissor tests for proper hierarchy of choices and outcomes, and 
+checks to make sure the first person to submit an answer in tie wins. 
+
+The tournament testing module tests for two scenarios, a recursive set of games, 
+and a non recursive set of games. 
